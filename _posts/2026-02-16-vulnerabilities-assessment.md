@@ -3,6 +3,7 @@ title: "Vulnerabilities Assessment: The First Step in Cyber Defense"
 date: 2026-02-16
 categories: [Cybersecurity, Vulnerabilities]
 tags: [security, vulnerabilities, assessment, cyber defense]
+author: Leo Joel
 ---
 
 # Vulnerability Assessment: The First Step in Cyber Defense 
