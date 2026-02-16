@@ -4,5 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hae, I'm "Leo Joel", a Cybersecurity Enthusiast.
+-Skilled in Network & Penetration Testing.
+-Passionate about technologies and like to offer solutions to surrounding issues cybersecurity.
+-Building a conducive Tech atmsphere through research. 
