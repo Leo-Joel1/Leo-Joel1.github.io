@@ -5,10 +5,14 @@ categories: [Cybersecurity, Vulnerabilities]
 tags: [security, vulnerabilities, assessment, cyber defense]
 ---
 
+![Vulnerability Assessment Banner](assets/Cybersecurity-Vulnerabilities.jpg)
+
 # Vulnerability Assessment: The First Step in Cyber Defense 
 In today’s digital world, every organization depends on technology to run smoothly. But with that reliance comes risk. Cyber attackers are constantly searching for weaknesses — and that’s where **vulnerability assessment** comes in. It’s the process of identifying, analyzing, and prioritizing flaws in systems before they can be exploited.
 
 ---
+
+![The Guide](assets/Vulnerability+Assessments+Guide-2048510159.webp)
 
 ## 🚨 Why It Matters 
 - **Prevention is cheaper than cure**: Fixing vulnerabilities costs far less than recovering from a breach.
