@@ -1,9 +1,8 @@
 ---
-image: /assets/Thumb.jfif
 title: About
 icon: fas fa-info-circle
 order: 4
-image: /assets/challenges_logo-4802.png
+image: /assets/Thumb.png
 ---
 
 Hae, I'm **Leo Joel**, a Cybersecurity Enthusiast.
