@@ -6,4 +6,4 @@ tags: [CTF, HTB, Try Hack Me, Kali Linux]
 image: /assets/CTF.png
 
 ---
-## Capture The Flag (CTF)
+## Capture The Flag (CTF) Challenges 
