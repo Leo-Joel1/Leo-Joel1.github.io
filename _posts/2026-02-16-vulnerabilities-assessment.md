@@ -6,8 +6,6 @@ tags: [security, vulnerabilities, assessment, cyber defense]
 image: /assets/vulnerability-assessments-28.jpg
 ---
 
-![Vulnerability Assessment Banner](assets/Cybersecurity-Vulnerabilities.jpg)
-
 # Vulnerability Assessment: The First Step in Cyber Defense 
 In today’s digital world, every organization depends on technology to run smoothly. But with that reliance comes risk. Cyber attackers are constantly searching for weaknesses — and that’s where **vulnerability assessment** comes in. It’s the process of identifying, analyzing, and prioritizing flaws in systems before they can be exploited.
 
@@ -42,4 +40,6 @@ A typical vulnerability assessment involves:
 
 ## 🌐 Final Thoughts 
 Cybersecurity isn’t just about firewalls and antivirus software 
-— it’s about being proactive. Vulnerability assessments give organizations the visibility they need to stay one step ahead of attackers. In a world where threats evolve daily, knowing your weaknesses is the ultimate strength.
+
+![Vulnerability Assessment Banner](assets/Cybersecurity-Vulnerabilities.jpg)
+![Vulnerability Assessment Banner](assets/Cybersecurity-Vulnerabilities.jpg)— it’s about being proactive. Vulnerability assessments give organizations the visibility they need to stay one step ahead of attackers. In a world where threats evolve daily, knowing your weaknesses is the ultimate strength.
