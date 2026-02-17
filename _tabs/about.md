@@ -7,6 +7,6 @@ image: /assets/challenges_logo-4802.png
 ---
 
 Hae, I'm **Leo Joel**, a Cybersecurity Enthusiast.
-* Skilled in Network & Penetration Testing.
+* Skilled in Network Security & Penetration Testing.
 * Passionate about technologies and like to offer solutions to surrounding issues cybersecurity.
 * Building a conducive Tech atmsphere through research. 
