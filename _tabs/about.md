@@ -6,10 +6,12 @@ order: 4
 permalink: /about/
 ---
 
-<div style="text-align: center;"> 
-  <img src="/assets/Thumb.png" alt="Leo Joel" width="220"> 
+<p align="center"> 
+  <img src="/assets/images/profile.jpg" alt="Leo Joel" width="220"> 
+</p>
 
-  ##----------------------------------------------------------------------------------- 
+<div style="text-align: center;"> 
+  
   Hae, I'm **Leo Joel**, a Cybersecurity Enthusiast.
   * Skilled in Network Security & Penetration Testing.
   * Passionate about technologies and offering solutions to cybersecurity issues 
