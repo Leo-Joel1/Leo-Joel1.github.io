@@ -7,7 +7,7 @@ permalink: /about/
 ---
 
 <p align="center"> 
-  <img src="/assets/images/profile.jpg" alt="Leo Joel" width="220"> 
+  <img src="/assets/Thumb.png" alt="Leo Joel" width="220"> 
 </p>
 
 <div style="text-align: center;"> 
