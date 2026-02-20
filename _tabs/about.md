@@ -6,7 +6,7 @@ permalink: /about/
 
 <div style="text-align: center;">
 
-  <img src="/assets/Thumb.png" alt="Leo Joel" width="220">
+  <img src="/assets/Thumb.png" alt="Leo Joel" width="300">
 
   ## Details
   
