@@ -39,6 +39,6 @@ A typical vulnerability assessment involves:
 
 ## 🌐 Final Thoughts 
 Cybersecurity isn’t just about firewalls and antivirus software 
+— it’s about being proactive. Vulnerability assessments give organizations the visibility they need to stay one step ahead of attackers. In a world where threats evolve daily, knowing your weaknesses is the ultimate strength.
 
 ![Vulnerability Assessment Banner](assets/Cybersecurity-Vulnerabilities.jpg)
-![Vulnerability Assessment Banner](assets/Cybersecurity-Vulnerabilities.jpg)— it’s about being proactive. Vulnerability assessments give organizations the visibility they need to stay one step ahead of attackers. In a world where threats evolve daily, knowing your weaknesses is the ultimate strength.
