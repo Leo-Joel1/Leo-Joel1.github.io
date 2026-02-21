@@ -2,11 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+image: /assets/Thumb.png
 ---
 
-image: /assets/Thumb.png
-
-  ## Details
+  ## **Details**
   
   - Skilled in Network Security & Penetration Testing
   - Passionate about technologies and offering solutions to cybersecurity issues
