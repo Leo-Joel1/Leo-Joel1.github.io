@@ -3,7 +3,7 @@ title: "Vulnerabilities Assessment: The First Step in Cyber Defense"
 date: 2026-02-16
 categories: [Cybersecurity, Vulnerabilities]
 tags: [security, vulnerabilities, assessment, cyber defense]
-image: /assets/vulnerability-assessments-28.jpg
+image: /assets/private-images/vulnerability-assessments-28.jpg
 ---
 
 # Vulnerability Assessments
@@ -42,5 +42,5 @@ Cybersecurity isn’t just about firewalls and antivirus software
 — it’s about being proactive. Vulnerability assessments give organizations the visibility they need to stay one step ahead of attackers. In a world where threats evolve daily, knowing your weaknesses is the ultimate strength.
 
 <div class="text-left">
-  <img src="/assets/Cybersecurity-Vulnerabilities.jpg" alt="Leo Joel" width="420" class="rounded-circle">
+  <img src="/assets/private-images/Cybersecurity-Vulnerabilities.jpg" alt="Leo Joel" width="420" class="rounded-circle">
 </div>
