@@ -16,7 +16,7 @@ HackTheBox has been an incredible platform to bridge theory with practice, prepa
 
 ## **Introduction To Networking**
 
-## **Introduction To Web Applications **
+## **Introduction To Web Applications**
 
 ## **Linux fundamentals**
 
