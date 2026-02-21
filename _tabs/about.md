@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="text-center">
-  <img src="/assets/Thumb.png" alt="Leo Joel" width="330" class="rounded-circle">
+  <img src="/assets/private-images/Thumb.png" alt="Leo Joel" width="330" class="rounded-circle">
 </div>
 
 ## **Details**
