@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-image: "/assets/Thumb.png" width="300"
+image: /assets/Thumb.png width=300
 
   ## Details
   
